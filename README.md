@@ -6,3 +6,12 @@ In a parallel universe, Amanda embarks on a journey to find a team of highly ski
 
 ## Problem Statement
 While researching, she found a raw dataset of over 30k datapoints (Raw_Skills_Dataset.csv) which contain technical skills and a lot of jargon mixed in. Can you help her develop a code that can clean this dataset and extract Technical (Hard) skills? 
+
+## Know a bit more
+What does technical skill mean? Technical skills are demonstrable and quantifiable skills. They can be tested to prove their capacity in each hard 
+skill an individual possesses. Sounded like blah, blah? We know, because it's much more difficult to explain this theoretically so how about we show what it means. We have attached some 900 random examples of technical skills (Example_Technical_Skills.csv), go through them to understand the pattern and sequence.
+
+## What do we need from you?
+A couple of things, please:
+- GitHub link for the Code you have written. 
+- A step-by-step document or presentation to describe your approach.
